@@ -2,7 +2,7 @@
 
 2. Team Members (if applicable):
 
-3. Overall Status (behind, on schedule, ahead of schedule):
+3. Overall Status (on-schedule, behind, ahead):
 
 4. Hours: (replace ## with your hours for each item)
 
@@ -19,7 +19,7 @@
 7. Plans / Goals for next week:
 
 
-8. Briefly describe an insight or something interesting you learned from the SPED talks this week:
+8. SPED Talk Insight (Briefly describe an insight or something interesting you learned from the SPED talks this week):
 
 
 9: Other comments for the instructor:
